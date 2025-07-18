@@ -1,2 +1,2 @@
 # hayabusa
-Test Security Scanner
+Web Security Scanner (test)
